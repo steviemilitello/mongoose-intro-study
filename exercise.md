@@ -16,6 +16,8 @@ What does ODM stand for?
 <!-- your answer here -->
 ```
 
+- Objecct Data Model
+
 ## Question 2
 
 What are some benefits to using an ODM?
@@ -23,6 +25,8 @@ What are some benefits to using an ODM?
 ```md
 <!-- your answer here -->
 ```
+
+- It represents the data as JavaScript objects, which makes it easier to interact with as it is represented similarly
 
 ## Question 3
 
@@ -32,6 +36,8 @@ Is Mongoose.js an ODM?
 <!-- your answer here -->
 ```
 
+- yes 
+
 ## Question 4
 
 Why is Mongoose.js a popular ODM for MongoDB?
@@ -40,6 +46,8 @@ Why is Mongoose.js a popular ODM for MongoDB?
 <!-- your answer here -->
 ```
 
+- It makes models and data easier to work with and similar in appearance to JavaScript while having many useful features such as middlewar, plugins, population and validation 
+
 ## Question 5
 
 What does CRUD stand for?
@@ -47,3 +55,5 @@ What does CRUD stand for?
 ```md
 <!-- your answer here -->
 ```
+
+- Create, Read, Update, Delete
